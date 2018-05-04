@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="com.github.dandelion:datatables-export-poi-ooxml:1.1.1-SNAPSHOT" type="repository">
+    <properties maven-id="com.github.dandelion:datatables-export-poi-ooxml:1.1.1-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/datatables-export-poi-ooxml-1.1.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/datatables-core-1.1.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dandelion-core-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-schemas-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlbeans-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-1.0.b2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
